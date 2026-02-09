@@ -38,7 +38,7 @@ if (isset($_POST['login'])) {
   <style>
     body {
       /* Match the dashboard background */
-      background: linear-gradient(to right, #4ade80, #16a34a);
+      background: linear-gradient(to right, #fbcfe8, #f472b6);
       min-height: 100vh;
     }
     .card-login {

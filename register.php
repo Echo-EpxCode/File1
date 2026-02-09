@@ -32,7 +32,7 @@ if (isset($_POST['register'])) {
 
   <style>
     body {
-      background: linear-gradient(to right, #4ade80, #16a34a); /* same green gradient as login */
+      background: linear-gradient(to right, #fbcfe8, #f472b6);
       min-height: 100vh;
     }
     .card-register {

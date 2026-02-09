@@ -18,7 +18,8 @@ if (!isset($_SESSION['user_id'])) {
 
   <style>
     body {
-      background: linear-gradient(to right, #4ade80, #16a34a); /* Green gradient */
+      background: linear-gradient(to right, #fbcfe8, #f472b6);
+
       min-height: 100vh;
     }
     .card-dashboard {
@@ -26,7 +27,8 @@ if (!isset($_SESSION['user_id'])) {
       border-radius: 1rem;
     }
     .navbar-custom {
-      background-color: #065f46; /* Dark green navbar */
+      background: linear-gradient(to right, #f43f5e, #be185d);
+
     }
   </style>
 </head>
